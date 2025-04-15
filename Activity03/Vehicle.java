@@ -1,3 +1,4 @@
+package Activity02;
 
 import java.util.Scanner;
 
